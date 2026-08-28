@@ -1,0 +1,13 @@
+ProjectID,ProjectName,Department ID,StartDate,EndDate,Budget_USD
+P001,Employee Portal Revamp,D02,2024-05-01,2024-09-30,55000
+P002,Payroll Automation,D03,2024-04-28,2024-11-19,68000
+P003,Cloud Migration,D06,2024-05-22,2024-09-03,112000
+P004,Diversity Initiative,D08,2024-01-01,2024-07-29,23000
+P005,Customer 360 Dashboard,D01,2024-03-07,2024-05-16,22000
+P006,Sales Enablement App,D07,2024-05-10,2024-12-16,106000
+P007,Talent Analytics Platform,D07,2024-04-23,2024-10-02,25000
+P008,Q4 Marketing Campaign,D03,2024-03-03,2024-07-20,25000
+P009,ISO Compliance Audit,D04,2024-02-18,2024-07-10,65000
+P010,New Office Setup - Pune,D02,2024-03-23,2024-09-10,108000
+P011,Mobile App Launch,D04,2024-01-08,2024-03-30,70000
+P012,Vendor Management System,D02,2024-04-20,2024-11-21,22000

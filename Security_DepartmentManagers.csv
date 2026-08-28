@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,ManagerEmail
+D01,Human Resources,human.head@globaltechhr.com
+D02,Finance,finance.head@globaltechhr.com
+D03,Information Technology,information.head@globaltechhr.com
+D04,Sales,sales.head@globaltechhr.com
+D05,Marketing,marketing.head@globaltechhr.com
+D06,Operations,operations.head@globaltechhr.com
+D07,Customer Support,customer.head@globaltechhr.com
+D08,Research & Development,research.head@globaltechhr.com

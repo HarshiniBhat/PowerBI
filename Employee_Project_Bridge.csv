@@ -1,0 +1,166 @@
+EmployeeID,ProjectID,RoleOnProject,AllocationPercent
+E0001,P002,Contributor,50
+E0003,P009,Reviewer,50
+E0003,P012,Reviewer,50
+E0007,P006,Coordinator,75
+E0008,P012,Contributor,100
+E0008,P010,Coordinator,75
+E0009,P006,Project Lead,75
+E0013,P001,Contributor,50
+E0014,P007,Project Lead,25
+E0014,P003,Stakeholder,100
+E0015,P007,Reviewer,75
+E0018,P003,Project Lead,25
+E0020,P005,Contributor,100
+E0020,P012,Contributor,75
+E0020,P006,Project Lead,75
+E0022,P008,Reviewer,100
+E0026,P003,Contributor,100
+E0027,P011,Reviewer,25
+E0027,P001,Coordinator,75
+E0028,P007,Coordinator,25
+E0030,P002,Project Lead,100
+E0030,P001,Reviewer,100
+E0032,P009,Project Lead,100
+E0033,P007,Project Lead,50
+E0034,P007,Reviewer,100
+E0034,P006,Reviewer,50
+E0035,P003,Stakeholder,25
+E0036,P008,Coordinator,75
+E0037,P004,Reviewer,100
+E0037,P008,Reviewer,25
+E0038,P012,Contributor,50
+E0038,P010,Reviewer,50
+E0039,P006,Coordinator,25
+E0041,P001,Coordinator,100
+E0044,P003,Contributor,25
+E0045,P003,Project Lead,100
+E0046,P010,Stakeholder,75
+E0048,P004,Coordinator,50
+E0049,P002,Coordinator,25
+E0049,P001,Project Lead,100
+E0051,P007,Coordinator,50
+E0052,P005,Reviewer,100
+E0054,P011,Reviewer,100
+E0055,P001,Coordinator,50
+E0055,P002,Coordinator,50
+E0055,P005,Stakeholder,50
+E0061,P006,Reviewer,100
+E0061,P010,Reviewer,50
+E0061,P009,Contributor,75
+E0063,P001,Stakeholder,75
+E0063,P008,Stakeholder,50
+E0065,P005,Stakeholder,25
+E0070,P003,Project Lead,75
+E0074,P010,Project Lead,50
+E0074,P012,Coordinator,75
+E0075,P002,Contributor,50
+E0077,P001,Project Lead,50
+E0077,P006,Reviewer,50
+E0077,P010,Reviewer,25
+E0078,P002,Stakeholder,75
+E0080,P010,Reviewer,75
+E0080,P002,Project Lead,50
+E0080,P006,Coordinator,100
+E0082,P004,Stakeholder,50
+E0082,P011,Coordinator,75
+E0084,P012,Contributor,100
+E0088,P010,Stakeholder,25
+E0088,P004,Coordinator,50
+E0089,P004,Reviewer,75
+E0090,P012,Reviewer,100
+E0091,P004,Contributor,75
+E0092,P012,Contributor,25
+E0093,P003,Coordinator,75
+E0093,P007,Stakeholder,100
+E0093,P008,Contributor,100
+E0097,P002,Contributor,75
+E0097,P001,Reviewer,25
+E0097,P005,Contributor,75
+E0098,P003,Contributor,75
+E0098,P002,Stakeholder,100
+E0098,P009,Contributor,100
+E0100,P003,Reviewer,50
+E0100,P001,Project Lead,100
+E0100,P002,Stakeholder,75
+E0102,P001,Coordinator,100
+E0103,P001,Contributor,75
+E0103,P007,Stakeholder,100
+E0104,P004,Project Lead,75
+E0106,P005,Coordinator,100
+E0107,P002,Stakeholder,100
+E0107,P011,Project Lead,75
+E0109,P001,Coordinator,75
+E0109,P005,Project Lead,75
+E0109,P008,Stakeholder,25
+E0110,P002,Reviewer,100
+E0116,P010,Reviewer,25
+E0116,P004,Coordinator,25
+E0116,P008,Stakeholder,50
+E0117,P003,Project Lead,50
+E0117,P012,Contributor,100
+E0117,P004,Contributor,100
+E0118,P010,Reviewer,75
+E0121,P009,Reviewer,75
+E0121,P007,Stakeholder,100
+E0121,P012,Contributor,100
+E0122,P003,Stakeholder,25
+E0125,P009,Coordinator,75
+E0125,P006,Coordinator,100
+E0127,P005,Coordinator,50
+E0130,P006,Coordinator,75
+E0130,P004,Reviewer,25
+E0130,P001,Reviewer,75
+E0131,P012,Project Lead,50
+E0131,P011,Reviewer,100
+E0131,P002,Reviewer,75
+E0134,P004,Stakeholder,75
+E0134,P007,Contributor,50
+E0134,P008,Contributor,75
+E0136,P003,Project Lead,50
+E0138,P001,Reviewer,75
+E0138,P006,Coordinator,100
+E0138,P004,Contributor,25
+E0139,P010,Coordinator,75
+E0139,P008,Reviewer,50
+E0139,P003,Reviewer,25
+E0140,P001,Project Lead,50
+E0140,P003,Project Lead,50
+E0140,P010,Reviewer,100
+E0141,P008,Project Lead,50
+E0143,P010,Reviewer,100
+E0143,P005,Coordinator,75
+E0144,P008,Reviewer,100
+E0146,P009,Stakeholder,75
+E0146,P011,Reviewer,25
+E0147,P005,Reviewer,75
+E0147,P011,Reviewer,75
+E0148,P001,Stakeholder,100
+E0154,P007,Stakeholder,50
+E0154,P012,Reviewer,50
+E0154,P001,Stakeholder,100
+E0157,P011,Stakeholder,50
+E0158,P003,Project Lead,75
+E0158,P005,Contributor,50
+E0158,P009,Reviewer,50
+E0160,P006,Stakeholder,75
+E0160,P005,Coordinator,25
+E0161,P008,Project Lead,25
+E0163,P007,Project Lead,50
+E0163,P001,Project Lead,75
+E0164,P003,Contributor,100
+E0164,P006,Reviewer,50
+E0164,P012,Reviewer,25
+E0165,P004,Stakeholder,50
+E0165,P003,Coordinator,25
+E0166,P011,Coordinator,100
+E0166,P007,Coordinator,25
+E0166,P012,Contributor,50
+E0171,P011,Contributor,50
+E0172,P005,Contributor,100
+E0172,P003,Stakeholder,75
+E0173,P005,Reviewer,100
+E0176,P006,Coordinator,75
+E0178,P001,Project Lead,50
+E0178,P004,Contributor,50
+E0178,P011,Contributor,75

@@ -1,0 +1,184 @@
+Emp_ID,Full Name , Gender,Date of Birth,Hire_Date,Job Title,Dept Code,Manager ID,work location,status ,Email Address
+E0001,  James Iyer  ,Female,24 Nov 1973,24-03-2019,Content Strategist,D05,,Bengaluru,on leave,james.iyer1@globaltechhr.com
+E0002,Sunita Kumar,Female,18-01-1989,04/17/2019,HR Executive,D01,,Delhi NCR,ACTIVE,sunita.kumar2@globaltechhr.com
+E0003,Michael Brown,Male,01/25/1997,26 May 2025,Business Development Executive,D04,,Delhi NCR,ACTIVE,michael.brown3@globaltechhr.com
+E0004,  Deepak Kapoor  ,Male,02/12/1982,03-02-2021,Data Analyst,D03,,Chennai,ACTIVE,deepak.kapoor4@globaltechhr.com
+E0005,Riya Wilson,Female,27 May 1987,07/03/2017,Product Innovation Lead,D08,,Chennai,terminated,riya.wilson5@globaltechhr.com
+E0006,Mia Anderson,Male,05/03/1994,08-11-2016,Sales Executive,D04,,Remote,active,mia.anderson6@globaltechhr.com
+E0007,Krishna Bose,Male,22 Apr 1981,12 Mar 2021,Product Innovation Lead,D08,,Delhi NCR,ACTIVE,krishna.bose7@globaltechhr.com
+E0008,Harper Johnson,Female,1982-05-21,2019-03-15,IT Manager,D03,,Chennai,terminated,harper.johnson8@globaltechhr.com
+E0009,  Priya Johnson  ,Male,07 Feb 1978,2016-06-13,HR Manager,D01,,Delhi NCR,ON LEAVE,priya.johnson9@globaltechhr.com
+E0010,Rahul Rao,Male,1974-04-24,03/09/2023,Customer Success Manager,D07,,Chennai,on leave,rahul.rao10@globaltechhr.com
+E0011,Riya Davis,Male,1985-02-25,17 Mar 2019,Support Team Lead,D07,,Remote,active,riya.davis11@globaltechhr.com
+E0012,  Ishaan Nair  ,Female,1989-08-17,2017-07-13,Customer Success Manager,D07,,Chennai,active,ishaan.nair12@globaltechhr.com
+E0013,Ava Sharma,Female,1975-08-01,14 May 2017,Marketing Manager,D05,,Delhi NCR,terminated,ava.sharma13@globaltechhr.com
+E0014,Riya Chopra,Female,25-06-1974,2024-10-07,Finance Manager,D02,,Chennai,active,riya.chopra14@globaltechhr.com
+E0015,  Isabella Moore  ,Female,05/08/1998,12 Feb 2016,Operations Manager,D06,,Mumbai,active,isabella.moore15@globaltechhr.com
+E0016,  Mia Bansal  ,Female,03/22/1974,2017-09-25,Payroll Specialist,D02,E0122,Mumbai,on leave,mia.bansal16@globaltechhr.com
+E0017,Riya Chopra,Male,06/15/1990,22-07-2020,Sales Manager,D04,E0133,Bengaluru,ACTIVE,riya.chopra17@globaltechhr.com
+E0018,Neha Patel,Female,01-04-1988,08 Sep 2025,Operations Executive,D06,E0019,Delhi NCR,TERMINATED,neha.patel18@globaltechhr.com
+E0019,Sai Patel,Female,16 Nov 1978,09/08/2017,Recruiter,D01,E0055,Mumbai,on leave,sai.patel19@globaltechhr.com
+E0020,Emma Moore,Male,1973-11-14,04/04/2022,Business Development Executive,D04,E0091,Hyderabad,active,emma.moore20@globaltechhr.com
+E0021,Ravi Anderson,Female,02/08/1995,11-12-2022,Financial Analyst,D02,E0050,Chennai,active,ravi.anderson21@globaltechhr.com
+E0022,Anil Nair,Male,15 Feb 1999,04/28/2023,IT Support Engineer,D03,E0141,Bengaluru,ACTIVE,anil.nair22@globaltechhr.com
+E0023,  Michael Agarwal  ,Female,28 Apr 1985,16 Jul 2018,Accountant,D02,E0103,Mumbai,active,michael.agarwal23@globaltechhr.com
+E0024,  Rajesh Sharma  ,Male,26-12-2000,2020-07-23,SEO Specialist,D05,E0143,Delhi NCR,terminated,rajesh.sharma24@globaltechhr.com
+E0025,Shreya Nair,Female,1987-01-24,2016-10-24,Content Strategist,D05,E0081,Bengaluru,active,shreya.nair25@globaltechhr.com
+E0026,  Sunita Malhotra  ,Female,28 Nov 1972,02/20/2018,HR Executive,D01,E0061,Bengaluru,active,sunita.malhotra26@globaltechhr.com
+E0027,Mia Bansal,Female,1988-09-11,19 Nov 2022,HR Executive,D01,E0067,Delhi NCR,ACTIVE,mia.bansal27@globaltechhr.com
+E0028,  William Kapoor  ,Female,08/11/1979,2018-11-21,SEO Specialist,D05,E0019,Hyderabad,active,william.kapoor28@globaltechhr.com
+E0029,  Lakshmi Bansal  ,Female,1999-06-03,05 May 2024,Accountant,D02,E0063,Pune,active,lakshmi.bansal29@globaltechhr.com
+E0030,Diya Singh,Male,24 Feb 1973,03/09/2017,Recruiter,D01,E0142,Pune,ACTIVE,diya.singh30@globaltechhr.com
+E0031,Meera Desai,Female,03 Jan 1978,09/16/2020,Operations Executive,D06,E0163,Remote,active,meera.desai31@globaltechhr.com
+E0032,Kavya Verma,Female,1984-09-23,24-03-2020,Operations Executive,D06,E0110,Bengaluru,on leave,kavya.verma32@globaltechhr.com
+E0033,Ishaan Gupta,Female,02 Mar 1983,05-09-2025,Recruiter,D01,E0079,Remote,active,ishaan.gupta33@globaltechhr.com
+E0034,Ava Verma,Male,20-07-1987,2017-06-25,Sales Manager,D04,E0040,Remote,active,ava.verma34@globaltechhr.com
+E0035,Diya Wilson,Female,07/26/1995,12/11/2018,Support Executive,D07,E0172,Remote,terminated,diya.wilson35@globaltechhr.com
+E0036,Neha Mehta,Female,12 Aug 1976,2016-08-08,Payroll Specialist,D02,E0079,Mumbai,active,neha.mehta36@globaltechhr.com
+E0037,Vivaan Johnson,Female,06/21/1978,02/25/2020,Support Team Lead,D07,E0131,Delhi NCR,active,vivaan.johnson37@globaltechhr.com
+E0038,  Joseph Agarwal  ,Male,2000-05-02,19 Mar 2020,HR Executive,D01,E0028,Hyderabad,on leave,joseph.agarwal38@globaltechhr.com
+E0039,  Vikram Davis  ,Male,10/07/1998,02/13/2024,Customer Success Manager,D07,E0066,Delhi NCR,active,vikram.davis39@globaltechhr.com
+E0040,  Deepak Sharma  ,Female,22 Jun 1989,11/11/2017,Operations Manager,D06,E0032,Pune,terminated,deepak.sharma40@globaltechhr.com
+E0041,Nisha Joshi,Male,07/22/1976,05 Sep 2020,Operations Manager,D06,E0098,Delhi NCR,terminated,nisha.joshi41@globaltechhr.com
+E0042,Charlotte Reddy,Male,1976-07-26,10 May 2016,Customer Success Manager,D07,E0149,Delhi NCR,ON LEAVE,charlotte.reddy42@globaltechhr.com
+E0043,  Rahul Singh  ,Male,06-12-1995,09/16/2019,Product Innovation Lead,D08,E0169,Pune,ACTIVE,rahul.singh43@globaltechhr.com
+E0044,Nisha Johnson,Male,01-03-1976,26-04-2020,Accountant,D02,E0012,Hyderabad,active,nisha.johnson44@globaltechhr.com
+E0045,Lakshmi Anderson,Female,07/16/1992,04/23/2025,R&D Engineer,D08,E0103,Mumbai,active,lakshmi.anderson45@globaltechhr.com
+E0046,Michael Brown,Female,2000-12-17,26 Mar 2019,Payroll Specialist,D02,E0119,Chennai,ACTIVE,michael.brown46@globaltechhr.com
+E0047,  Neha Moore  ,Female,11 Oct 1987,17 Nov 2023,Research Analyst,D08,E0114,Remote,on leave,neha.moore47@globaltechhr.com
+E0048,  Emma Thomas  ,Male,1994-04-27,08/09/2023,Research Analyst,D08,E0164,Remote,active,emma.thomas48@globaltechhr.com
+E0049,Isabella Chopra,Male,04/09/1979,02/23/2023,Account Manager,D04,E0086,Chennai,active,isabella.chopra49@globaltechhr.com
+E0050,Rohan Nair,Female,14 Jul 1972,07 Dec 2018,Business Development Executive,D04,E0085,Hyderabad,on leave,rohan.nair50@globaltechhr.com
+E0051,  Manoj Verma  ,Female,10/13/1997,2025-12-01,Support Team Lead,D07,E0123,Pune,active,manoj.verma51@globaltechhr.com
+E0052,Anjali Miller,Male,09-04-1985,08-10-2024,Customer Success Manager,D07,E0112,Bengaluru,active,anjali.miller52@globaltechhr.com
+E0053,  Rajesh Kapoor  ,Male,07/19/1970,18-10-2018,QA Engineer,D03,E0145,Bengaluru,TERMINATED,rajesh.kapoor53@globaltechhr.com
+E0054,Rohan Smith,Male,06/07/1982,09-01-2018,QA Engineer,D03,E0117,Pune,active,rohan.smith54@globaltechhr.com
+E0055,  Sophia Thomas  ,Male,18-12-1970,02/16/2020,SEO Specialist,D05,E0014,Mumbai,active,sophia.thomas55@globaltechhr.com
+E0056,  Michael Gupta  ,Female,1974-04-05,2019-01-20,HR Manager,D01,E0122,Bengaluru,terminated,michael.gupta56@globaltechhr.com
+E0057,Rekha Rao,Male,23 Dec 2000,10/20/2018,Marketing Manager,D05,E0030,Pune,ACTIVE,rekha.rao57@globaltechhr.com
+E0058,Krishna Bansal,Female,23 Oct 1972,12/07/2022,SEO Specialist,D05,E0161,Bengaluru,ACTIVE,krishna.bansal58@globaltechhr.com
+E0059,Robert Miller,Male,1991-06-03,14 Sep 2021,Financial Analyst,D02,E0130,Pune,terminated,robert.miller59@globaltechhr.com
+E0060,  Aarav Anderson  ,Male,23 Aug 1998,06/21/2022,Research Analyst,D08,E0040,Mumbai,ACTIVE,aarav.anderson60@globaltechhr.com
+E0061,Emma Chopra,Male,28 Jun 1978,12/19/2022,R&D Engineer,D08,E0063,Pune,active,emma.chopra61@globaltechhr.com
+E0062,  Mia Singh  ,Female,16 Jan 1980,11/13/2025,Product Innovation Lead,D08,E0084,Hyderabad,ACTIVE,mia.singh62@globaltechhr.com
+E0063,  Myra Chatterjee  ,Male,1987-01-17,09 Dec 2025,Operations Manager,D06,E0049,Mumbai,active,myra.chatterjee63@globaltechhr.com
+E0064,Emma Kumar,Male,10 Feb 1970,2023-08-26,Business Development Executive,D04,E0057,Delhi NCR,active,emma.kumar64@globaltechhr.com
+E0065,Neha Joshi,Male,09/11/1993,06/14/2024,Product Innovation Lead,D08,E0091,Hyderabad,terminated,neha.joshi65@globaltechhr.com
+E0066,Kavya Joshi,Male,09/25/1993,04-06-2019,Sales Executive,D04,E0177,Mumbai,active,kavya.joshi66@globaltechhr.com
+E0067,Myra Davis,Male,06/06/1977,10 Apr 2017,Marketing Manager,D05,E0078,Delhi NCR,active,myra.davis67@globaltechhr.com
+E0068,Swati Nair,Male,2000-03-21,05/23/2024,HR Executive,D01,E0126,Remote,ACTIVE,swati.nair68@globaltechhr.com
+E0069,  Aarav Bansal  ,Male,2000-01-09,2023-06-06,R&D Engineer,D08,E0123,Remote,active,aarav.bansal69@globaltechhr.com
+E0070,Arjun Bose,Male,03 May 1988,26-03-2018,Financial Analyst,D02,E0064,Chennai,ACTIVE,arjun.bose70@globaltechhr.com
+E0071,  Sophia Kumar  ,Female,10 Jul 1988,2023-05-28,Support Team Lead,D07,E0146,Bengaluru,on leave,sophia.kumar71@globaltechhr.com
+E0072,Lakshmi Davis,Female,1975-04-06,03-11-2020,Sales Manager,D04,E0142,Mumbai,active,lakshmi.davis72@globaltechhr.com
+E0073,  Aarav Kumar  ,Male,05/23/1992,2016-04-10,R&D Engineer,D08,E0117,Delhi NCR,ACTIVE,aarav.kumar73@globaltechhr.com
+E0074,Priya Moore,Male,09 Mar 1990,09/08/2017,Business Development Executive,D04,E0037,Bengaluru,active,priya.moore74@globaltechhr.com
+E0075,Diya Wilson,Male,13 Dec 1979,23 Aug 2017,SEO Specialist,D05,E0070,Chennai,on leave,diya.wilson75@globaltechhr.com
+E0076,  Shreya Singh  ,Female,08 Feb 1970,10/09/2021,HR Business Partner,D01,E0173,Chennai,on leave,shreya.singh76@globaltechhr.com
+E0077,Vivaan Miller,Male,06-05-1984,21-09-2023,HR Manager,D01,E0150,Delhi NCR,ACTIVE,vivaan.miller77@globaltechhr.com
+E0078,Andrew Malhotra,Female,28-02-1991,11-06-2022,R&D Engineer,D08,E0042,Hyderabad,active,andrew.malhotra78@globaltechhr.com
+E0079,  Robert Malhotra  ,Male,11-05-1980,08/03/2016,Customer Success Manager,D07,E0030,Remote,active,robert.malhotra79@globaltechhr.com
+E0080,  Nisha Taylor  ,Female,25 Oct 1981,17 Apr 2016,R&D Engineer,D08,E0128,Hyderabad,terminated,nisha.taylor80@globaltechhr.com
+E0081,Sophia Verma,Female,1985-02-01,23-08-2020,Content Strategist,D05,E0162,Remote,ON LEAVE,sophia.verma81@globaltechhr.com
+E0082,  Neha Brown  ,Female,02/15/1977,03 Jul 2024,Marketing Executive,D05,E0031,Remote,TERMINATED,neha.brown82@globaltechhr.com
+E0083,Ananya Malhotra,Male,1984-09-05,08/08/2023,SEO Specialist,D05,E0099,Chennai,ACTIVE,ananya.malhotra83@globaltechhr.com
+E0084,Nisha Davis,Female,27 May 1986,2022-06-26,Finance Manager,D02,E0001,Delhi NCR,ACTIVE,nisha.davis84@globaltechhr.com
+E0085,Anjali Taylor,Male,25-09-1980,2024-08-12,QA Engineer,D03,E0140,Hyderabad,active,anjali.taylor85@globaltechhr.com
+E0086,Harper Kapoor,Female,16 Dec 1980,02-07-2019,Business Development Executive,D04,E0098,Delhi NCR,active,harper.kapoor86@globaltechhr.com
+E0087,  Daniel Taylor  ,Female,02/28/1980,19-09-2018,Research Analyst,D08,E0113,Chennai,active,daniel.taylor87@globaltechhr.com
+E0088,Amelia Singh,Female,11-05-1995,2018-02-16,QA Engineer,D03,E0160,Hyderabad,terminated,amelia.singh88@globaltechhr.com
+E0089,  Michael Gupta  ,Male,1989-02-08,02 Sep 2023,Support Team Lead,D07,E0162,Pune,TERMINATED,michael.gupta89@globaltechhr.com
+E0090,Priya Davis,Female,05/01/1992,06-08-2017,Support Executive,D07,E0012,Remote,ACTIVE,priya.davis90@globaltechhr.com
+E0091,Sai Joshi,Male,22 Oct 1983,04/17/2018,Operations Manager,D06,E0047,Mumbai,ACTIVE,sai.joshi91@globaltechhr.com
+E0092,Rohan Desai,Male,1984-11-09,08 Mar 2025,Business Development Executive,D04,E0118,Delhi NCR,active,rohan.desai92@globaltechhr.com
+E0093,  Aarav Thomas  ,Male,1988-05-21,12-08-2017,Content Strategist,D05,E0109,Pune,terminated,aarav.thomas93@globaltechhr.com
+E0094,Ravi Anderson,Male,12 Oct 1982,2023-02-08,Business Development Executive,D04,E0148,Delhi NCR,ACTIVE,ravi.anderson94@globaltechhr.com
+E0095,  Meera Sharma  ,Male,20 Jan 1993,25 Nov 2025,Marketing Executive,D05,E0128,Remote,active,meera.sharma95@globaltechhr.com
+E0096,  Matthew Patel  ,Male,25 Dec 1994,05/22/2025,Sales Manager,D04,E0169,Remote,terminated,matthew.patel96@globaltechhr.com
+E0097,  Kabir Smith  ,Female,05-12-1981,19-01-2023,Recruiter,D01,E0024,Pune,ACTIVE,kabir.smith97@globaltechhr.com
+E0098,Olivia Kumar,Female,27 May 1986,06/17/2024,Sales Manager,D04,E0043,Remote,ACTIVE,olivia.kumar98@globaltechhr.com
+E0098,Olivia Kumar,Female,27 May 1986,06/17/2024,Sales Manager,D04,E0043,Remote,ACTIVE,olivia.kumar98@globaltechhr.com
+E0099,Pooja Wilson,Male,28 Apr 1994,2023-02-05,Operations Executive,D06,E0174,Delhi NCR,TERMINATED,pooja.wilson99@globaltechhr.com
+E0100,Suresh Anderson,Male,12 Aug 1973,05/18/2016,Payroll Specialist,D02,E0173,Delhi NCR,terminated,suresh.anderson100@globaltechhr.com
+E0101,Riya Bansal,Male,11-09-1989,01-08-2019,Operations Executive,D06,E0157,Delhi NCR,ACTIVE,riya.bansal101@globaltechhr.com
+E0102,  Arjun Smith  ,Male,10 Jan 2000,2017-03-02,SEO Specialist,D05,E0127,Bengaluru,active,arjun.smith102@globaltechhr.com
+E0103,Neha Thomas,Female,09/14/1992,11/24/2021,Support Team Lead,D07,E0151,Delhi NCR,TERMINATED,neha.thomas103@globaltechhr.com
+E0104,  Ananya Thomas  ,Male,12 Dec 1971,2025-07-09,Payroll Specialist,D02,E0056,Hyderabad,ACTIVE,ananya.thomas104@globaltechhr.com
+E0105,Neha Anderson,Male,09 Jul 1971,2024-11-12,Finance Manager,D02,E0049,Remote,ACTIVE,neha.anderson105@globaltechhr.com
+E0106,Andrew Singh,Female,10/07/1974,08 Jun 2016,Sales Executive,D04,E0018,Mumbai,ON LEAVE,andrew.singh106@globaltechhr.com
+E0106,Andrew Singh,Female,10/07/1974,08 Jun 2016,Sales Executive,D04,E0018,Mumbai,ON LEAVE,andrew.singh106@globaltechhr.com
+E0107,Sunita Rao,Female,1997-03-05,09 Jan 2025,Operations Executive,D06,E0139,Remote,ACTIVE,sunita.rao107@globaltechhr.com
+E0108,Saanvi Iyer,Female,1980-01-06,19 Apr 2021,Software Engineer,D03,E0068,Mumbai,active,saanvi.iyer108@globaltechhr.com
+E0109,Olivia Kumar,Female,1988-02-15,06/17/2023,Payroll Specialist,D02,E0129,Chennai,active,olivia.kumar109@globaltechhr.com
+E0110,Aditya Davis,Male,07/14/1997,2016-01-16,Product Innovation Lead,D08,E0176,Hyderabad,active,aditya.davis110@globaltechhr.com
+E0111,William Moore,Male,03/09/1972,05 Oct 2021,Financial Analyst,D02,E0160,Chennai,TERMINATED,william.moore111@globaltechhr.com
+E0112,Kiran Brown,Male,14-10-1986,2024-05-15,Customer Success Manager,D07,E0026,Bengaluru,TERMINATED,kiran.brown112@globaltechhr.com
+E0113,Ethan Smith,Female,13-08-1996,07/11/2019,Support Team Lead,D07,E0107,Bengaluru,terminated,ethan.smith113@globaltechhr.com
+E0114,Rahul Kumar,Male,1972-02-27,16 Nov 2018,Marketing Manager,D05,E0022,Hyderabad,ACTIVE,rahul.kumar114@globaltechhr.com
+E0115,  Krishna Davis  ,Male,22 Jun 1987,18 Oct 2016,IT Manager,D03,E0032,Pune,ACTIVE,krishna.davis115@globaltechhr.com
+E0116,Ava Johnson,Male,17 Oct 1973,05/12/2025,Recruiter,D01,E0055,Delhi NCR,ACTIVE,ava.johnson116@globaltechhr.com
+E0117,Pooja Patel,Female,08 Oct 1978,25 Feb 2021,Logistics Coordinator,D06,E0110,Remote,on leave,pooja.patel117@globaltechhr.com
+E0118,Andrew Desai,Female,11-05-1994,23 May 2018,Marketing Executive,D05,E0090,Mumbai,ACTIVE,andrew.desai118@globaltechhr.com
+E0119,Ava Nair,Male,13-04-1986,24-02-2016,Accountant,D02,E0108,Pune,active,ava.nair119@globaltechhr.com
+E0120,Diya Chatterjee,Male,25 Mar 1974,02-02-2025,Logistics Coordinator,D06,E0159,Delhi NCR,ACTIVE,diya.chatterjee120@globaltechhr.com
+E0121,  Rohan Mehta  ,Male,25-04-1978,14-08-2025,Support Team Lead,D07,E0132,Pune,ACTIVE,rohan.mehta121@globaltechhr.com
+E0122,Deepak Iyer,Male,02 Oct 1982,01/08/2020,Product Innovation Lead,D08,E0002,Pune,active,deepak.iyer122@globaltechhr.com
+E0123,Myra Miller,Female,1985-12-14,02/01/2021,Marketing Manager,D05,E0045,Hyderabad,active,myra.miller123@globaltechhr.com
+E0124,Swati Brown,Female,15-01-1983,02-12-2022,Operations Executive,D06,E0020,Chennai,active,swati.brown124@globaltechhr.com
+E0125,Deepak Bansal,Male,06 Jun 2000,2017-07-01,Support Team Lead,D07,E0159,Remote,active,deepak.bansal125@globaltechhr.com
+E0126,Robert Moore,Male,17 Jul 1988,14-04-2017,Payroll Specialist,D02,E0021,Remote,active,robert.moore126@globaltechhr.com
+E0127,  Anjali Davis  ,Male,17-02-1990,17-02-2018,Account Manager,D04,E0131,Remote,ACTIVE,anjali.davis127@globaltechhr.com
+E0128,Vikram Chatterjee,Female,10/05/1975,05/07/2018,Sales Executive,D04,E0168,Mumbai,active,vikram.chatterjee128@globaltechhr.com
+E0129,  Isabella Smith  ,Male,21 Oct 1999,22 Aug 2025,Product Innovation Lead,D08,E0163,Pune,on leave,isabella.smith129@globaltechhr.com
+E0130,  Ava Smith  ,Male,26 May 1990,15 Aug 2017,QA Engineer,D03,E0071,Bengaluru,on leave,ava.smith130@globaltechhr.com
+E0131,  Vikram Chopra  ,Female,03 May 1981,02 Jan 2023,SEO Specialist,D05,E0166,Chennai,ACTIVE,vikram.chopra131@globaltechhr.com
+E0132,Geeta Chopra,Male,21-10-1984,02-12-2024,Product Innovation Lead,D08,E0049,Chennai,active,geeta.chopra132@globaltechhr.com
+E0133,  Pooja Chopra  ,Female,21 Sep 1972,06/23/2017,HR Business Partner,D01,E0045,Mumbai,active,pooja.chopra133@globaltechhr.com
+E0134,William Singh,Male,22 Jun 1983,2021-05-13,IT Support Engineer,D03,E0154,Remote,active,william.singh134@globaltechhr.com
+E0135,James Smith,Male,05/09/1982,22 Sep 2017,Finance Manager,D02,E0169,Remote,on leave,james.smith135@globaltechhr.com
+E0136,Ananya Kapoor,Female,07/05/1991,23-11-2020,IT Support Engineer,D03,E0153,Bengaluru,TERMINATED,ananya.kapoor136@globaltechhr.com
+E0137,Anjali Agarwal,Male,07/17/1991,2024-02-21,Operations Executive,D06,E0093,Pune,active,anjali.agarwal137@globaltechhr.com
+E0138,  Anjali Reddy  ,Female,10 Feb 1974,05 Apr 2019,Operations Manager,D06,E0026,Remote,on leave,anjali.reddy138@globaltechhr.com
+E0139,Swati Taylor,Female,03/06/1974,10/13/2018,Logistics Coordinator,D06,E0178,Remote,ON LEAVE,swati.taylor139@globaltechhr.com
+E0140,Charlotte Reddy,Male,20-08-1977,24 Nov 2021,HR Business Partner,D01,E0073,Remote,terminated,charlotte.reddy140@globaltechhr.com
+E0141,Anil Patel,Female,15 Oct 2000,06/22/2019,SEO Specialist,D05,E0119,Remote,active,anil.patel141@globaltechhr.com
+E0142,Rajesh Chopra,Male,21 Jan 1978,28 Mar 2025,Data Analyst,D03,E0124,Chennai,active,rajesh.chopra142@globaltechhr.com
+E0143,  Harper Iyer  ,Female,09/05/1998,15-05-2018,Marketing Executive,D05,E0112,Mumbai,ACTIVE,harper.iyer143@globaltechhr.com
+E0144,Andrew Singh,Male,13 Apr 1981,07/17/2016,HR Business Partner,D01,E0021,Mumbai,active,andrew.singh144@globaltechhr.com
+E0145,  Vivaan Kapoor  ,Female,23-08-1999,10-01-2018,Operations Executive,D06,E0036,Hyderabad,terminated,vivaan.kapoor145@globaltechhr.com
+E0146,Anil Desai,Female,24 Sep 1974,27-04-2020,Financial Analyst,D02,E0156,Hyderabad,on leave,anil.desai146@globaltechhr.com
+E0147,Ishaan Miller,Male,1983-11-26,01/08/2017,Account Manager,D04,E0160,Bengaluru,ACTIVE,ishaan.miller147@globaltechhr.com
+E0148,Ishaan Taylor,Male,12 Oct 1970,14-05-2018,HR Manager,D01,E0062,Hyderabad,ON LEAVE,ishaan.taylor148@globaltechhr.com
+E0149,Saanvi Johnson,Female,1995-09-18,09/17/2024,Operations Executive,D06,E0006,Remote,active,saanvi.johnson149@globaltechhr.com
+E0150,Pooja Verma,Male,06/08/1972,06/26/2016,Operations Manager,D06,E0169,Bengaluru,terminated,pooja.verma150@globaltechhr.com
+E0151,Isabella Bansal,Male,11/06/1996,2021-09-11,Software Engineer,D03,E0176,Delhi NCR,active,isabella.bansal151@globaltechhr.com
+E0152,  Pooja Smith  ,Female,26-01-1976,2023-01-10,Software Engineer,D03,E0052,Pune,active,pooja.smith152@globaltechhr.com
+E0153,Harper Joshi,Male,1979-06-28,07-11-2016,R&D Engineer,D08,E0013,Pune,TERMINATED,harper.joshi153@globaltechhr.com
+E0154,Kavya Iyer,Male,08/23/1975,07/11/2023,Support Team Lead,D07,E0128,Remote,active,kavya.iyer154@globaltechhr.com
+E0155,  Divya Mehta  ,Female,10 Sep 1975,27 Oct 2022,Support Executive,D07,E0083,Bengaluru,active,divya.mehta155@globaltechhr.com
+E0156,  Rahul Johnson  ,Male,15 Dec 1975,14 Dec 2025,SEO Specialist,D05,E0090,Bengaluru,active,rahul.johnson156@globaltechhr.com
+E0157,Emma Anderson,Male,1990-07-12,22 Feb 2016,Support Team Lead,D07,E0132,Delhi NCR,terminated,emma.anderson157@globaltechhr.com
+E0158,Diya Sharma,Female,1994-11-12,08 Feb 2018,Research Analyst,D08,E0093,Chennai,active,diya.sharma158@globaltechhr.com
+E0159,Aditya Desai,Female,05 Oct 1972,25-08-2021,R&D Engineer,D08,E0136,Hyderabad,active,aditya.desai159@globaltechhr.com
+E0160,Rahul Smith,Male,09/13/1985,06 Dec 2016,Sales Executive,D04,E0144,Pune,active,rahul.smith160@globaltechhr.com
+E0161,Isabella Mehta,Male,1974-02-15,2023-04-04,Account Manager,D04,E0045,Hyderabad,terminated,isabella.mehta161@globaltechhr.com
+E0162,Rohan Wilson,Male,1979-05-28,18 Sep 2017,Logistics Coordinator,D06,E0041,Delhi NCR,terminated,rohan.wilson162@globaltechhr.com
+E0163,  Harper Brown  ,Female,08-03-1995,07 Feb 2019,Logistics Coordinator,D06,E0127,Pune,active,harper.brown163@globaltechhr.com
+E0164,  Kiran Bansal  ,Male,13 May 1972,03-10-2018,Product Innovation Lead,D08,E0123,Hyderabad,on leave,kiran.bansal164@globaltechhr.com
+E0165,Isabella Kumar,Female,09/12/1991,2017-08-15,IT Support Engineer,D03,E0033,Delhi NCR,on leave,isabella.kumar165@globaltechhr.com
+E0166,  Sunita Reddy  ,Female,1974-05-06,2016-02-17,Customer Success Manager,D07,E0042,Delhi NCR,active,sunita.reddy166@globaltechhr.com
+E0167,Priya Chatterjee,Male,21 Mar 1978,18-11-2019,Finance Manager,D02,E0078,Chennai,on leave,priya.chatterjee167@globaltechhr.com
+E0168,Rohan Chopra,Female,02-10-1980,20 Dec 2025,Data Analyst,D03,E0008,Bengaluru,ACTIVE,rohan.chopra168@globaltechhr.com
+E0169,Michael Miller,Male,11/18/1985,11/01/2025,Business Development Executive,D04,E0075,Pune,terminated,michael.miller169@globaltechhr.com
+E0169,Michael Miller,Male,11/18/1985,11/01/2025,Business Development Executive,D04,E0075,Pune,terminated,michael.miller169@globaltechhr.com
+E0170,Pooja Patel,Male,14-08-1975,2017-12-02,SEO Specialist,D05,E0124,Mumbai,active,pooja.patel170@globaltechhr.com
+E0171,Amit Desai,Female,07/05/1981,28-12-2021,Logistics Coordinator,D06,E0095,Chennai,on leave,amit.desai171@globaltechhr.com
+E0172,Krishna Kapoor,Female,1974-02-02,2020-08-08,Research Analyst,D08,E0075,Remote,ACTIVE,krishna.kapoor172@globaltechhr.com
+E0173,  Lakshmi Kumar  ,Female,03/16/1976,12/11/2025,IT Support Engineer,D03,E0132,Hyderabad,active,lakshmi.kumar173@globaltechhr.com
+E0174,Mia Joshi,Male,07 Apr 2000,09/15/2022,HR Executive,D01,E0150,Bengaluru,ACTIVE,mia.joshi174@globaltechhr.com
+E0175,Sai Joshi,Male,05 Jul 1973,28 Jan 2024,R&D Engineer,D08,E0068,Pune,TERMINATED,sai.joshi175@globaltechhr.com
+E0176,Sophia Bose,Male,18 Jun 1976,18-10-2016,HR Business Partner,D01,E0074,Hyderabad,active,sophia.bose176@globaltechhr.com
+E0177,Nisha Singh,Male,1995-06-18,07/12/2017,Accountant,D02,E0094,Mumbai,ACTIVE,nisha.singh177@globaltechhr.com
+E0178,Geeta Chopra,Male,17-08-1980,2016-03-23,HR Executive,D01,E0117,Chennai,active,geeta.chopra178@globaltechhr.com
+E0179,  Charlotte Chopra  ,Female,27 Dec 1989,03/13/2021,Logistics Coordinator,D06,E0077,Pune,ON LEAVE,charlotte.chopra179@globaltechhr.com
+E0180,Nisha Taylor,Male,14 Feb 1991,06/11/2016,SEO Specialist,D05,E0150,Remote,ACTIVE,nisha.taylor180@globaltechhr.com

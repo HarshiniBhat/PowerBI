@@ -1,0 +1,9 @@
+DepartmentID,DepartmentName,Division
+D01,Human Resources,Talent & People
+D02,Finance,Corporate Services
+D03,Information Technology,Technology
+D04,Sales,Revenue
+D05,Marketing,Revenue
+D06,Operations,Corporate Services
+D07,Customer Support,Technology
+D08,Research & Development,Technology
